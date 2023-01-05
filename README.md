@@ -1,6 +1,6 @@
 ### - 👋 Hi, I’m @vhko
 ### - 🌏 I come from China
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
