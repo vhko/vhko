@@ -1,7 +1,7 @@
 ### - 👋 Hi, I’m @vhko
 ### - 🌏 I come from China
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhko)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhko&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zitons)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vhko&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhko&show_icons=true)
 <!--
 - 👀 I’m interested in ...
