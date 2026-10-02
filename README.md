@@ -16,9 +16,8 @@
 <a href="github.com/vhko"><img width="90%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vhko&theme=vue"/></a>
 | <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vhko&theme=default&utcOffset=8"/></a> | <a href="google.com"><img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vhko&theme=default"/></a>|
 | --- | --- |
-
-<img src="/AnimatedEmojies-512px-179.gif" width="200" />
 <!--
+<img src="/AnimatedEmojies-512px-179.gif" width="200" />
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
